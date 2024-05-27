@@ -1,0 +1,1 @@
+# auto-typer-for-mac
